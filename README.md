@@ -13,16 +13,12 @@
 #### Enginnering
 <p align="left"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" color="white" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
 <br />
 
 ### 📊 Stats
-![Hyeonwoo's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhw12409&&show_icons=true&theme=white)
+![Donghyeon's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhw12409&&show_icons=true&theme=white)
 
 <br />
 
