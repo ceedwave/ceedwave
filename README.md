@@ -11,9 +11,9 @@
 
 ### 📚 Tech Stack
 #### Enginnering
-<div align="left"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</p>
 
 <!-- <br />
 
