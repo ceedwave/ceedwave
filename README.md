@@ -1,5 +1,3 @@
-# ceedwave
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=270&section=header&text=Welcome&fontAlignY=40&fontSize=90&desc=Donghyeon's%20GitHub%20Profile&descAlignY=55&descSize=14&descAlign=61)
 ## 👨🏻‍💻 김동현 Donghyeon
 
