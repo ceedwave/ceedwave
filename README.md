@@ -1,6 +1,6 @@
 # ceedwave
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&desc=Hello%20world%20Donghyeon's%20GitHub%20Profile&descSize=10&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=260&section=header&text=Welcome&fontAlignY=40&fontSize=90&desc=Donghyeon's%20GitHub%20Profile&descAlignY=55&descSize=14&descAlign=61)
 ## 👨🏻‍💻 김동현 Donghyeon
 
 ### 🐶 About Me
@@ -11,16 +11,16 @@
 
 ### 📚 Tech Stack
 #### Enginnering
-<p align="left"> 
+<div align="left"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-</p>
+</div>
 
-<br />
+<!-- <br />
 
 ### 📊 Stats
 ![Donghyeon's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhw12409&&show_icons=true&theme=white)
 
-<br />
+<br /> -->
 
 <!--
 **hhw12409/hhw12409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
