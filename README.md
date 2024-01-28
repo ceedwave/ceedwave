@@ -8,7 +8,7 @@
 <br />
 
 ### 📚 Tech Stack
-#### Enginnering
+* #### Enginnering
 <p align="cneter">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </p>
