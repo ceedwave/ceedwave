@@ -25,19 +25,19 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 </p>
 
-
+<br />
 
 <br />
 
-<!-- <br />
-
 ### 📊 Stats
-![Donghyeon's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhw12409&&show_icons=true&theme=white)
+![Donghyeon's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ceedwave&&show_icons=true&theme=white)
 
-<br /> -->
+<br />
+
+
 
 <!--
-**hhw12409/hhw12409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ceedwave/ceedwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -50,8 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
