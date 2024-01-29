@@ -10,10 +10,10 @@
 ### 📚 Tech Stack
 * #### Enginnering
 <p align="cneter">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL%20IDE&logoColor=white">
 </p>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL%20IDE&logoColor=white">
+
 
 
 <br />
