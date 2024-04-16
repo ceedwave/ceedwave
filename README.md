@@ -2,7 +2,7 @@
 ## 👨🏻‍💻 김동현 Donghyeon's
 
 ### 🐶 About Me
-* 💻 &nbsp; Data Analystic Enginner
+* 💻 &nbsp; Data Enginner
 * 📞 &nbsp; sswsoul89s@gmail.com <br/>
 
 <br />
