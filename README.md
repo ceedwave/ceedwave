@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat&logo=Apache Airflow&logoColor=white">
 <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=Google Cloud Platform&logoColor=white">
-<img src="https://img.shields.io/badge/Bigquery-669DF6?style=flat&logo=Google Bigquery&logoColor=white">  
+<img src="https://img.shields.io/badge/Bigquery-669DF6?style=flat&logo=Google Bigquery&logoColor=white">   
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 </p>
 
