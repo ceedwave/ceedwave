@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=Google Cloud Platform&logoColor=white">
 <img src="https://img.shields.io/badge/Bigquery-669DF6?style=flat&logo=Google Bigquery&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Kafka&logoColor=white">
 </p>
 
 * #### Tools
